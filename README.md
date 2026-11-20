@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:1f6feb&section=header&text=Antonio%20Angelo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20APIs%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=18&descAlignY=58" width="100%" alt="Antonio Angelo - Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:1f6feb&section=header&text=Antonio%20Angelo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Desenvolvedor%20Front-end&descSize=20&descAlignY=58" width="100%" alt="Antonio Angelo - Desenvolvedor Front-end" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvimento+Full+Stack;Django+%7C+Next.js+%7C+TypeScript;APIs+REST+%C2%B7+Docker+%C2%B7+CI%2FCD;Da+interface+%C3%A0+infraestrutura" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+Front-end+%26+Full+Stack;React+%7C+Next.js+%7C+TypeScript;Interfaces+modernas%2C+r%C3%A1pidas+e+acess%C3%ADveis" alt="Typing SVG" />
 
 <br/>
 
@@ -13,33 +13,29 @@
 
 ---
 
-```ts
-const antonio = {
-  role: "Full Stack Developer",
-  education: "Análise e Desenvolvimento de Sistemas",
-  backend: ["Python", "Django", "Django REST Framework", "Celery", "Redis"],
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  infra: ["Docker", "Linux", "VPS", "Cloudflare Workers", "GitHub Actions"],
-  portfolio: "https://antoniof-portfolio.vercel.app/",
-};
+```bash
+antonio@dev:~$ whoami
+Antonio Angelo · Desenvolvedor Front-end, com atuação Full Stack
+
+antonio@dev:~$ cat foco
+React  Next.js  TypeScript  Tailwind CSS
 ```
 
 ## 👨‍💻 Sobre
 
-Sou **Desenvolvedor Full Stack**, formado em **Análise e Desenvolvimento de Sistemas**. Desenvolvo aplicações web completas: da interface em **React e Next.js** às **APIs REST em Django**, passando pelo banco de dados e pelo deploy.
+Sou **formado em Análise e Desenvolvimento de Sistemas** e trabalho com **desenvolvimento front-end**, com atuação **Full Stack**. Meu foco é criar interfaces modernas, rápidas e bem estruturadas, que unem boa experiência de uso e código organizado.
 
-Meu foco está na qualidade do que vai para produção: APIs bem documentadas, autenticação segura com **JWT**, tarefas assíncronas com **Celery e Redis**, ambientes padronizados com **Docker** e entrega contínua com **GitHub Actions**.
-
-- 🏗️ Arquitetura de APIs REST documentadas com **OpenAPI**
-- 🔐 Autenticação e controle de acesso com **JWT**
-- ⚙️ Automação de build e deploy com **CI/CD**
-- 🌐 Veja meus projetos no [portfólio](https://antoniof-portfolio.vercel.app/)
+- 🎨 Interfaces **responsivas** e **acessíveis**, do mobile ao desktop
+- ⚛️ Componentização e arquitetura de front-end com **React** e **Next.js**
+- 🚀 Performance e boas práticas de renderização (**SSR/SSG**)
+- 🧩 Estilização consistente com **Tailwind CSS** e código tipado com **TypeScript**
+- 🔌 Integração das interfaces com APIs e back-end em **Django**
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,django,react,nextjs,tailwind,postgres,docker,redis,supabase,linux,cloudflare,githubactions,vercel,git,github,postman&theme=dark&perline=9" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,python,django,postgres,docker,redis,supabase,linux,cloudflare,githubactions,vercel,git,github,postman&theme=dark&perline=10" alt="Tecnologias" />
 
 <br/><br/>
 
@@ -48,15 +44,13 @@ Meu foco está na qualidade do que vai para produção: APIs bem documentadas, a
 ![JWT](https://img.shields.io/badge/JWT-1f6feb?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-30363d?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1f6feb?style=flat-square)
-![VPS](https://img.shields.io/badge/VPS-30363d?style=flat-square)
 
 </div>
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Linguagens** | TypeScript, JavaScript, Python |
-| **Back-end** | Django, Django REST Framework, REST APIs, JWT, Celery, Redis |
-| **Front-end** | Next.js, React, Tailwind CSS |
+| **Front-end** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3 |
+| **Back-end** | Python, Django, Django REST Framework, REST APIs, JWT, Celery, Redis |
 | **Banco de dados** | PostgreSQL, Supabase |
 | **Infraestrutura** | Docker, Linux, VPS, Cloudflare Workers, GitHub Actions, Vercel |
 | **Ferramentas** | Git, GitHub, Postman, OpenAPI |
