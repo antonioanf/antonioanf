@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1f3a5f,100:1f6feb&section=header&text=Antonio%20Angelo&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20Web&descSize=18&descAlignY=58" width="100%" alt="Antonio Angelo - Desenvolvedor Web" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:1f6feb&section=header&text=Antonio%20Angelo&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20APIs%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=18&descAlignY=58" width="100%" alt="Antonio Angelo - Full Stack Developer" />
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Desenvolvimento+Web+Front-end;React+%7C+TypeScript+%7C+Python;Transformando+ideias+em+produtos+digitais" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvimento+Full+Stack;Django+%7C+Next.js+%7C+TypeScript;APIs+REST+%C2%B7+Docker+%C2%B7+CI%2FCD;Da+interface+%C3%A0+infraestrutura" alt="Typing SVG" />
 
 <br/>
 
@@ -15,46 +13,59 @@
 
 ---
 
-```bash
-antonio@dev:~$ whoami
-Antonio Angelo · Desenvolvedor Web · Formado em Análise e Desenvolvimento de Sistemas
-
-antonio@dev:~$ cat stack
-React  TypeScript  JavaScript  Python  Django  HTML  CSS
-
-antonio@dev:~$ ./portfolio --open
-https://antoniof-portfolio.vercel.app/
+```ts
+const antonio = {
+  role: "Full Stack Developer",
+  education: "Análise e Desenvolvimento de Sistemas",
+  backend: ["Python", "Django", "Django REST Framework", "Celery", "Redis"],
+  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+  infra: ["Docker", "Linux", "VPS", "Cloudflare Workers", "GitHub Actions"],
+  portfolio: "https://antoniof-portfolio.vercel.app/",
+};
 ```
 
 ## 👨‍💻 Sobre
 
-Sou **formado em Análise e Desenvolvimento de Sistemas** e atuo com **desenvolvimento web**, criando interfaces modernas, responsivas e bem estruturadas.
-Gosto de entender o porquê das coisas: organização de código, boas práticas e experiência do usuário fazem diferença em cada projeto.
+Sou **Desenvolvedor Full Stack**, formado em **Análise e Desenvolvimento de Sistemas**. Desenvolvo aplicações web completas: da interface em **React e Next.js** às **APIs REST em Django**, passando pelo banco de dados e pelo deploy.
 
-- 🔭 Aprimorando meus projetos com **React** e **TypeScript**
-- 🌐 Conheça meus trabalhos no [portfólio](https://antoniof-portfolio.vercel.app/)
-- 📫 Vamos conversar? Me chame pelo portfólio
+Meu foco está na qualidade do que vai para produção: APIs bem documentadas, autenticação segura com **JWT**, tarefas assíncronas com **Celery e Redis**, ambientes padronizados com **Docker** e entrega contínua com **GitHub Actions**.
+
+- 🏗️ Arquitetura de APIs REST documentadas com **OpenAPI**
+- 🔐 Autenticação e controle de acesso com **JWT**
+- ⚙️ Automação de build e deploy com **CI/CD**
+- 🌐 Veja meus projetos no [portfólio](https://antoniof-portfolio.vercel.app/)
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,django,git,github,vercel,vscode&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,django,react,nextjs,tailwind,postgres,docker,redis,supabase,linux,cloudflare,githubactions,vercel,git,github,postman&theme=dark&perline=9" alt="Tecnologias" />
+
+<br/><br/>
+
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-1f6feb?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-30363d?style=flat-square&logo=celery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1f6feb?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-30363d?style=flat-square&logo=openapiinitiative&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1f6feb?style=flat-square)
+![VPS](https://img.shields.io/badge/VPS-30363d?style=flat-square)
 
 </div>
 
 | Área | Tecnologias |
 | :-- | :-- |
 | **Linguagens** | TypeScript, JavaScript, Python |
-| **Front-end** | React, HTML5, CSS3 |
-| **Back-end** | Django |
-| **Ferramentas** | Git, GitHub, Vercel, VS Code |
+| **Back-end** | Django, Django REST Framework, REST APIs, JWT, Celery, Redis |
+| **Front-end** | Next.js, React, Tailwind CSS |
+| **Banco de dados** | PostgreSQL, Supabase |
+| **Infraestrutura** | Docker, Linux, VPS, Cloudflare Workers, GitHub Actions, Vercel |
+| **Ferramentas** | Git, GitHub, Postman, OpenAPI |
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antonioanf&show_icons=true&locale=pt-br&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=antonioanf&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_color=30363d" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioanf&layout=compact&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Linguagens mais usadas" />
 
 <br/>
